@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My name is Alan, and I am a computer systems engineering student. I am looking forward to learn as much as possible about the most important circuit created and improved since the last century: the computer.
+
+I find fascinating how we've got to mimic real world behavior by using hardware, software and a lot of imagination from the greatest minds that have stepped on earth.
+
+Since I began to study at college, I have worked in several projects. Those I really enjoy the most are about algorithms and data structures, software development and backend engineering. I am also experienced in data science projects (from cleaning datasets to creating AI models).
+
 <!--
 **AlanKev117/AlanKev117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
